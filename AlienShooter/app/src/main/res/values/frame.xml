@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="bullet_disappear_frame">3</integer>
+    <integer name="bullet_appear_frame">5</integer>
+
+    <integer name="player_walk_frame">10</integer>
+    <integer name="player_jump_frame">10</integer>
+    <integer name="player_shoot_frame">4</integer>
+
+    <integer name="goblin_walk_frame">8</integer>
+    <integer name="goblin_dead_frame">6</integer>
+    <integer name="goblin_attack_frame">7</integer>
+
+</resources>

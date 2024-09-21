@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="player_walk_gap">100</integer>
+    <integer name="player_jump_gap">100</integer>
+    <integer name="player_shoot_gap">100</integer>
+
+    <integer name="bullet_disappear_gap">25</integer>
+    <integer name="bullet_appear_gap">19</integer>
+
+    <integer name="goblin_walk_gap">100</integer>
+    <integer name="goblin_dead_gap">33</integer>
+    <integer name="goblin_attack_gap">13</integer>
+
+</resources>
